@@ -1,0 +1,3 @@
+v2 additions (2026-03-06):
+- Added DQ_Risk_Heatmap_Template.xlsx + usage guide
+- Added outreach copy/paste templates (Arabic/English) for WhatsApp and Email
